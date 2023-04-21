@@ -1,1 +1,1 @@
-# Diabeted-Prediction
+# Diabetes-Prediction
